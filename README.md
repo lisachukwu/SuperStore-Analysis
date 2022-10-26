@@ -1,5 +1,5 @@
 # SuperStore-Analysis
-# SuperStore-Analysis
+
 ## Introduction
 This dataset contains information about a superstore, which includes the order ID, order date, Customer_ID, Sales_rep and other important information about the dataset
 
